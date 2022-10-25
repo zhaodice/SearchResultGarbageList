@@ -1,0 +1,2 @@
+# SearchResultGarbageList
+收集的搜索结果中的垃圾站列表，全部屏蔽一劳永逸
