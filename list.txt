@@ -29,3 +29,5 @@ iask.sina.com.cn
 www.csdn.net/gather
 www.sinabz.com/tag
 cloud.tencent.com/developer/information/
+www.1688.com
+www.qiniu.com/qfans/
