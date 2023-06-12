@@ -19,7 +19,7 @@ d.wanfangdata.com.cn
 developer.aliyun.com/articlezt/
 download.csdn.net
 dude6.com/q/a/
-https://help.aliyun.com/wordpower/
+help.aliyun.com/wordpower/
 huangye88.com
 iask.sina.com.cn
 iiidea.cn
@@ -84,3 +84,8 @@ www.yohobuy.com/hot/
 xdf.cn
 yp.jd.com
 zhanzhang.9i0i.cn
+zhidao.baidu.com
+adobe.com
+wenku.csdn.net
+flash.cn
+www-quic.zhihu.com
